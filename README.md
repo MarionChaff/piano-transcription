@@ -5,7 +5,7 @@ This repo contains two notebooks including (i) audio data preprocessing and (ii)
 
 **Database**
 
-- >10,000 very short midi files with one or many notes played simultaneously (midi files contains information such as as musical notes, timing, velocity, pitch, and instrument data)
+- Very short midi files with one or many notes played simultaneously (midi files contains information such as as musical notes, timing, velocity, pitch, and instrument data)
 
 **X data pre-processing** (cf. file 1-data-preprocessing.ipynb)
 
